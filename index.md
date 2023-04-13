@@ -191,3 +191,18 @@ flowchart TD
     B -->|tcp_456| C[Server1] 
     B -->|tcp_456| D[Server2]
 </div>
+
+
+<html lang="en">
+  <body>
+    <pre class="mermaid">
+  graph LR
+      A --- B
+      B-->C[fa:fa-ban forbidden]
+      B-->D(fa:fa-spinner);
+    </pre>
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    </script>
+  </body>
+</html>
