@@ -20,6 +20,24 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
+<html lang="en">
+  <body> <center>
+    <pre class="mermaid">
+  flowchart TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+    </pre>
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    </script>
+    </center>
+  </body>
+</html>
+
+
 ### Header 3
 
 ```js
@@ -132,28 +150,3 @@ flowchart TD
     C -->|Three| F[fa:fa-car Car]
     
 
-
-<div class="mermaid" markdown="0" >
-    graph TD 
-    A[Client] -->|tcp_123| B(Load Balancer) 
-    B -->|tcp_456| C[Server1] 
-    B -->|tcp_456| D[Server2]
-</div>
-
-
-<html lang="en">
-  <body> <center>
-    <pre class="mermaid">
-  flowchart TD
-    A[Christmas] -->|Get money| B(Go shopping)
-    B --> C{Let me think}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
-    </pre>
-    <script type="module">
-      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-    </script>
-    </center>
-  </body>
-</html>
