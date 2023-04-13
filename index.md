@@ -142,7 +142,7 @@ flowchart TD
 
 
 <html lang="en">
-  <body>
+  <body> <center>
     <pre class="mermaid">
   flowchart TD
     A[Christmas] -->|Get money| B(Go shopping)
@@ -154,5 +154,6 @@ flowchart TD
     <script type="module">
       import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
     </script>
+    </center>
   </body>
 </html>
