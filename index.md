@@ -43,7 +43,8 @@ end
 ```
 
 ```python
-# Ruby code with syntax highlighting
+# Python code with syntax highlighting
+import pandas as pd
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
