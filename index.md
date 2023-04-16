@@ -42,6 +42,13 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
+```python
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
 #### Results and Discussion
 
 *   This is an unordered list following a header.
