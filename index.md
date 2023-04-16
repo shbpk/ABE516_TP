@@ -14,6 +14,29 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+{ "class": "GraphLinksModel",
+  "nodeDataArray": [
+{"key":1, "loc":"0 0", "text":"Alpha", "details":"some information about Alpha and its importance"},
+{"key":2, "loc":"170 0", "text":"Beta", "color":"blue", "thickness":2, "figure":"Procedure"},
+{"key":3, "loc":"0 100", "text":"Gamma", "color":"green", "figure":"Cylinder1"},
+{"key":4, "loc":"80 180", "text":"Delta", "color":"red", "figure":"Terminator", "size":"80 40"},
+{"key":5, "loc":"350 -50", "text":"Zeta", "group":7, "color":"blue", "figure":"CreateRequest"},
+{"key":6, "loc":"350 50", "text":"Eta", "group":7, "figure":"Document", "fill":"lightyellow"},
+{"key":7, "isGroup":true, "text":"Theta", "color":"green", "fill":"lightgreen"},
+{"key":8, "loc":"520 50", "text":"Iota", "fill":"pink"}
+ ],
+  "linkDataArray": [
+{"from":1, "to":2, "dash":[ 6,3 ], "thickness":4},
+{"from":1, "to":3, "dash":[ 2,4 ], "color":"green", "text":"label"},
+{"from":3, "to":4, "color":"red", "text":"a red label", "fromSpot":"RightSide"},
+{"from":2, "to":1},
+{"from":5, "to":6, "text":"in a group"},
+{"from":2, "to":7},
+{"from":6, "to":8, "dir":0},
+{"from":6, "to":8, "dir":1},
+{"from":6, "to":8, "dir":2}
+ ]}
+
 ## Header 2
 
 > This is a blockquote following a header.
