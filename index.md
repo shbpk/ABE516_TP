@@ -66,7 +66,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-[View full code](./another-page.html).
+[#View full code](./another-page.html).
 
 
 #### Results and Discussion
