@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Test
+
 
 ## Introduction
 ## Material and Methods
