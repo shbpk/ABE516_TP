@@ -33,7 +33,7 @@ Tylosin is an antibiotic drug commonly used in veterinary medicine to treat a wi
 Enterocci is a bacteria found in human intestine and egricultural environment <a href="#8"><sup>8</sup></a> and have shown tendency to develop resistance to antibiotics.
 
 ## Objective
- The objective of this study was to deduce a relationship between the presence of enterocci, a bacteria found in human intestine and egricultural environment <a href="#8"><sup>8</sup></a>, and it's mutated variant having tylosin resistance, the tylosin resistance eterrocci. 
+ The objective of this study was to deduce a relationship between the presence of enterococci, a bacteria found in human intestine and egricultural environment <a href="#8"><sup>8</sup></a>, and it's mutated variant having tylosin resistance, the tylosin resistance eterrocci. 
 
 This will provide an evidence of tylosic resistance bacteria in agricultural watersheds where enterocci is found if a strong relationship is found.
 
