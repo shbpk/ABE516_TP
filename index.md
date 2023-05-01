@@ -25,7 +25,7 @@ end
 ```
 
 [#View full code for XGBoost Regessor](./another-page.html).
-[#View full code for Linear Regression](./another-page2.html).
+[#View full code for Linear Regression](.Notebooks/Term Project LR.ipynb).
 
 
 
