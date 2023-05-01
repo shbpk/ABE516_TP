@@ -16,6 +16,7 @@ Antimicrobials – including antibiotics, antivirals, antifungals and antiparasi
 
 
 ## AMR in Agriculture
+The global spread of antimicrobial resistant organisms and AMR-associated genes poses a serious threat to the safety of both human and natural systems, increasing the hospitalization and mortality rates of both humans and production animals 3, 32, 33. In particular, the release of ARGs and organisms into the environment from agricultural sources is considered a serious health threat 34, 35. For example, antibiotic treatments have been observed to cause increases in the abundance of ARGs in animals, which leads to concomitant ARG prevalence in manure from antibiotic-treated animals 36, 37. Elevated concentrations of antibiotics and ARGs have also been found in or near livestock production facilities 38, 39. Moreover, land application of manure has been observed to result in transient increases in ARG abundance and populations of resistant zoonotic microorganisms 39-41. In sum, the joint occurrence of a large number of farm animals receiving antibiotics and dependence on shared soil and water resources makes animal agriculture and farms important potential contributors to antibiotic resistance observed in clinical settings 42. 
 
 
 ## Material and Methods
