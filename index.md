@@ -10,9 +10,6 @@ Antimicrobials – including antibiotics, antivirals, antifungals and antiparasi
 
 ![alt text](https://www.gavi.org/sites/default/files/vaccineswork/2023/Thumbnail/Vp45jo89EhLzFr4xapvP5FK01afQQWqZJ2ceaQd1Gwg_h2.jpg)
 
-<img src="[/assets/img/MarineGEO_logo.png](https://www.gavi.org/sites/default/files/vaccineswork/2023/Thumbnail/Vp45jo89EhLzFr4xapvP5FK01afQQWqZJ2ceaQd1Gwg_h2.jpg)" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
-
-
 
 As a result of drug resistance, antibiotics and other antimicrobial medicines become ineffective and infections become increasingly difficult or impossible to treat.
 ## Material and Methods
