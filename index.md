@@ -92,15 +92,15 @@ The variable, formatted and cleaned treated with the linear regression model lib
 # Results
 ## Linear Regression Analysis
 
-|Regression Results||||
+### Statitics
+|||||
 |:-------|:-----|:-----|:-----|
 |Dep. Variable:|      tet_ent|   R-squared:|         0.859|
 |F-statistic:|       393.9|   Adj. R-squared:|       0.857|
 |No. Observations:|     330|   Prob (F-statistic):     |2.51e-135|
 
 
-
-<center>
+### Coefficients and Their Significance
 
 |Predictor                 |Coefficent    |Standard Error          |t-statistic      |Probability>t      |Confidence Intervals I 95%[0.025      0.975]|
 |:----|:-----|:-----|:-----|:------|:------|
@@ -110,7 +110,7 @@ The variable, formatted and cleaned treated with the linear regression model lib
 |tyl_ent        |1.0604      |0.097     |10.906      |0.000       |0.869 ~       1.252|
 |Precip        |65.0207      |9.205      |7.064      |0.000      |46.911 ~     83.130|
 |Temp           |0.2425      v0.150      |1.611      |0.108      |-0.054 ~       0.539|
-</center>
+
 
 ## XGBoost Regression
 
