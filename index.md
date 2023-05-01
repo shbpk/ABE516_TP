@@ -24,7 +24,9 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-[#View full code](./another-page.html).
+[#View full code for XGBoost Regessor](./another-page.html).
+[#View full code for Linear Regression](./another-page2.html).
+
 
 
 ## Results and Discussion
