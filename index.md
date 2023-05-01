@@ -13,7 +13,7 @@ Antimicrobials – including antibiotics, antivirals, antifungals and antiparasi
 
 <div align="center">
 
-[Link Text](http://example.com)
+[Image Source "Gravi.org](http://example.com)
 
 </div>
 
