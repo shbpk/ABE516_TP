@@ -93,7 +93,8 @@ The variable, formatted and cleaned treated with the linear regression model lib
 ## Linear Regression Analysis
 
 ### Model Performance
-|Statitics||||
+
+|Statitics|.|.|.|
 |:-------|:-----|:-----|:-----|
 |Dep. Variable:|      tet_ent|   R-squared:|         0.859|
 |F-statistic:|       393.9|   Adj. R-squared:|       0.857|
@@ -113,6 +114,11 @@ The variable, formatted and cleaned treated with the linear regression model lib
 
 
 ## XGBoost Regression
+
+![Scatter Plot](assets\xgbr_out.png)
+<center>Significance of variables for XGBoost Model</center>
+
+`R-Squared for XGBoost Model = 0.914`
 
 # Refernces
 <p id="1">1- Allen, H. K.; Donato, J.; Wang, H. H.; Cloud-Hansen, K. A.; Davies, J.; Handelsman, J., Call of the wild: antibiotic resistance genes in natural environments. Nat. Rev. Microbiol. 2010, 8, (4), 251-259.</p>
