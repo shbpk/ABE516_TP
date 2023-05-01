@@ -11,10 +11,10 @@ Antimicrobials – including antibiotics, antivirals, antifungals and antiparasi
 
 ![alt text](assets/css/AMR-ONeil.png)
 ```
-Image taken from gavi.org 
+<p align="center"> Image taken from gavi.org</p>
+ 
 ```
-[I'm an inline-style link](https://www.google.com)
-
+<p align="center">[I'm an inline-style link](https://www.google.com)</p>
 
 
 
