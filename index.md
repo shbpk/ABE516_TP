@@ -21,7 +21,9 @@ The global spread of antimicrobial resistant organisms and AMR-associated genes 
 
 There can be various pathways antimicrobial resistance in the environment. One of the hypothesized pathway is illustrated in the figure below.
 
-![AMR in Ag. Pathway](assets\AgAMRCycl.png)
+<p align="center">
+  <img width="70%"  src="assets\AgAMRCycl.png">
+</p>
 <center>A hypothetical AMR cyle in agricultural environment</center>
 
 Antibiotics administered to animals for various reasons are not metabolized completely and aree found undigested in their manure. Applying manure for better soil health resulting to better crops is a common practices around the world. This can be an environment where bacteria can develope resistance to the antibiotics and reach human through water uptake by plants or instream water.
@@ -39,7 +41,9 @@ This will provide an evidence of tylosic resistance bacteria in agricultural wat
 ### Study Area
 The data comprises of observed water quality data from the Black Halk Lake (BHL) watershed in SAC county-IA. The Black Hawk Lake watershed catalouged as HUC12 level by the USEPA is a small watershed (shown is figure below) within the North Raccoon River (HUC-8) and Indian Creek-North Raccoon River (HUC-10) watersheds.
 
-![Study Area Map](assets\bhl.png)
+<p align="center">
+  <img width="70%"  src="assets\bhl.png">
+</p>
 <center>Study area, the Black Hawk Lake Watershed</center>
 
 ### Data
@@ -79,7 +83,10 @@ The study uses machine learning approach to develop a model to predict tylosin r
 
 The analyses starts with eliminating the null values or substituting them with a legitimate assumption, executing their descriptive analysis and scatter plot to understand the data. Scatter plot of the predicted variable "`tet_ent`" with other variables is shown below.
 
-![Scatter Plot](assets\LR_Plot.png)
+
+<p align="center">
+  <img width="100%"  src="assets\LR_Plot.png">
+</p>
 <center>Scatter plot of the variables</center>
 
 The variable, formatted and cleaned treated with the linear regression model library from sckikitlearn and also the XGBoost regressor.
