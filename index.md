@@ -11,12 +11,17 @@ Antimicrobials – including antibiotics, antivirals, antifungals and antiparasi
 
 ![alt text](assets/css/AMR-ONeil.png)
 <center>
-<a href="https://www.gavi.org/vaccineswork/what-antimicrobial-resistance-and-how-can-we-tackle-it?gclid=CjwKCAjwo7iiBhAEEiwAsIxQEe9oBkLiHuUFI8ru5pDI6lSTsba_wHPjZBYob6fX-YYfKzztvWuvEhoCdtUQAvD_BwE">Image Source: Gravi.org</a>
+Predicted mortality from AMR compared to other common caualities
+<a href="https://www.gavi.org/vaccineswork/what-antimicrobial-resistance-and-how-can-we-tackle-it?gclid=CjwKCAjwo7iiBhAEEiwAsIxQEe9oBkLiHuUFI8ru5pDI6lSTsba_wHPjZBYob6fX-YYfKzztvWuvEhoCdtUQAvD_BwE">[Image Source: Gravi.org]</a>
 </center>
 
+<a><p id="TOP"></p></a>
 
 ## AMR in Agriculture
-The global spread of antimicrobial resistant organisms and AMR-associated genes poses a serious threat to the safety of both human and natural systems, increasing the hospitalization and mortality rates of both humans and production animals 3, 32, 33. In particular, the release of ARGs and organisms into the environment from agricultural sources is considered a serious health threat 34, 35. For example, antibiotic treatments have been observed to cause increases in the abundance of ARGs in animals, which leads to concomitant ARG prevalence in manure from antibiotic-treated animals 36, 37. Elevated concentrations of antibiotics and ARGs have also been found in or near livestock production facilities 38, 39. Moreover, land application of manure has been observed to result in transient increases in ARG abundance and populations of resistant zoonotic microorganisms 39-41. In sum, the joint occurrence of a large number of farm animals receiving antibiotics and dependence on shared soil and water resources makes animal agriculture and farms important potential contributors to antibiotic resistance observed in clinical settings 42. 
+The global spread of antimicrobial resistant organisms and AMR-associated genes poses a serious threat to the safety of both human and natural systems, increasing the hospitalization and mortality rates of both humans and production animals <a href="#1"><sup>1</sup></a>. In particular, the release of ARGs and organisms into the environment from agricultural sources is considered a serious health threat <a href="#2"><sup>2</sup></a>. For example, antibiotic treatments have been observed to cause increases in the abundance of ARGs in animals, which leads to concomitant ARG prevalence in manure from antibiotic-treated animals <a href="#3"><sup>3</sup></a>. Elevated concentrations of antibiotics and ARGs have also been found in or near livestock production facilities <a href="#4"><sup>4</sup></a>. Moreover, land application of manure has been observed to result in transient increases in ARG abundance and populations of resistant zoonotic microorganisms <a href="#5"><sup>5</sup></a>. In sum, the joint occurrence of a large number of farm animals receiving antibiotics and dependence on shared soil and water resources makes animal agriculture and farms important potential contributors to antibiotic resistance observed in clinical settings <a href="#6"><sup>6</sup></a>. 
+
+![alt text](assets\AgAMRCycl.png)
+<center>A hypothetical AMR cyle in agricultural environment</center>
 
 
 ## Material and Methods
@@ -119,6 +124,23 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 More Notes May be ?
 ```
 
+# Reffernces
+<p id="1">1- Allen, H. K.; Donato, J.; Wang, H. H.; Cloud-Hansen, K. A.; Davies, J.; Handelsman, J., Call of the wild: antibiotic resistance genes in natural environments. Nat. Rev. Microbiol. 2010, 8, (4), 251-259.</p>
 
-    
+<p id="2">2- PCAST Report to the President on Combating Antibiotic Resistance; Executive Office of the President of the United States: 2014, 2014; p 78.</p>
+
+<p id="3">3- Holman, D. B.; Chénier, M. R., Impact of subtherapeutic administration of tylosin and chlortetracycline on antimicrobial resistance in farrow-to-finish swine. FEMS Microbiol. Ecol. 2013, 85, (1), 1-13.</p>
+
+<p id="4">4- Chee-Sanford, J. C.; Mackie, R. I.; Koike, S.; Krapac, I. G.; Lin, Y.-F.; Yannarell, A. C.; Maxwell, S.; Aminov, R. I., Fate and transport of antibiotic residues and antibiotic resistance genes following land application of manure waste. J. Environ. Qual. 2009, 38, (3), 1086-1108.</p>
+
+<p id="5">5- Heuer, H.; Schmitt, H.; Smalla, K., Antibiotic resistance gene spread due to manure application on agricultural fields. Curr. Opin. Microbiol. 2011, 14, (3), 236-243.</p>
+
+<p id="6">6- McEwen, S. A.; Fedorka-Cray, P. J., Antimicrobial use and resistance in animals. Clin. Infect. Dis. 2002, 34 Suppl 3, S93-S106.</p>
+
+<a href="#TOP">Back to top</a>
+
+
+
+
+
 
