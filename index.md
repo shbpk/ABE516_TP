@@ -11,6 +11,12 @@ Antimicrobials – including antibiotics, antivirals, antifungals and antiparasi
 
 ![alt text](assets/css/AMR-ONeil.png)
 
+<div align="center">
+
+<a href="http://example.com">Link Text</a>
+
+</div>
+
 
 ## AMR in Agriculture
 
