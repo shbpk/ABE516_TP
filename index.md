@@ -11,9 +11,9 @@ Antimicrobials – including antibiotics, antivirals, antifungals and antiparasi
 
 ![alt text](assets/css/AMR-ONeil.png)
 
-<p align="center">[Image Source: Gravi.org](https://www.google.com)</p>
+[Image Source: Gravi.org](https://www.google.com)
 
-[<p align="center">Image Source: Gravi.org</p>](https://www.google.com)
+[<p align="center">Image Source: Gravi.org</p>](https://www.google.com)[Image Source: Gravi.org](https://www.google.com)
 
 
 ## Material and Methods
