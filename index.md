@@ -115,8 +115,11 @@ The variable, formatted and cleaned treated with the linear regression model lib
 
 ## XGBoost Regression
 
-![Scatter Plot](assets\xgbr_out.png)
+<p align="center">
+  <img width="460" height="300" src="assets\xgbr_out.png">
+</p>
 <center>Significance of variables for XGBoost Model</center>
+
 
 `R-Squared for XGBoost Model = 0.914`
 
