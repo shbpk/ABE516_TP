@@ -15,6 +15,9 @@ Antimicrobials – including antibiotics, antivirals, antifungals and antiparasi
 
 [Image Source - Gravi.org](https://www.gavi.org/vaccineswork/what-antimicrobial-resistance-and-how-can-we-tackle-it?gclid=CjwKCAjwo7iiBhAEEiwAsIxQEe9oBkLiHuUFI8ru5pDI6lSTsba_wHPjZBYob6fX-YYfKzztvWuvEhoCdtUQAvD_BwE)
 
+[#View full code for Linear Regression](.Notebooks/Term Project LR.ipynb).
+
+  
 </div>
 ## AMR in Agriculture
 
