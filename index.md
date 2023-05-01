@@ -92,8 +92,8 @@ The variable, formatted and cleaned treated with the linear regression model lib
 # Results
 ## Linear Regression Analysis
 
-### Statitics
-|||||
+### Model Performance
+|Statitics||||
 |:-------|:-----|:-----|:-----|
 |Dep. Variable:|      tet_ent|   R-squared:|         0.859|
 |F-statistic:|       393.9|   Adj. R-squared:|       0.857|
