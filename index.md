@@ -11,9 +11,10 @@ Antimicrobials – including antibiotics, antivirals, antifungals and antiparasi
 
 ![alt text](assets/css/AMR-ONeil.png)
 
-
 <div align="center">
-[Image Source: Gravi.orgt](http://example.com)
+
+[Link Text](http://example.com)
+
 </div>
 
 ## Material and Methods
