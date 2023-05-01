@@ -5,8 +5,9 @@ layout: default
 
 
 ## Introduction
-Antimicrobials – including antibiotics, antivirals, antifungals and antiparasitics – are medicines used to prevent and treat infections in humans, animals and plants. Antimicrobial Resistance (AMR) occurs when bacteria, viruses, fungi and parasites change over time and no longer respond to medicines making infections harder to treat and increasing the risk of disease spread, severe illness and death. As a result of drug resistance, antibiotics and other antimicrobial medicines become ineffective and infections become increasingly difficult or impossible to treat.
+Antimicrobials, including antibiotics, antivirals, antifungals and antiparasitics are the medicines used to prevent and treat infections in humans, animals and plants. According to the National data for the United States reveal that almost 270 million antibiotics prescriptions are written each year <a href="https://www.michiganmedicine.org/health-lab/nearly-quarter-antibiotic-prescriptions-may-be-unnecessary#:~:text=National%20data%20indicate%20that%20around,prescriptions%20are%20filled%20every%20year">[report]</a>. This is roughly a prescription for every 5 out of 6 people in the US. Antimicrobial Resistance (AMR) occurs when bacteria, viruses, fungi and parasites change over time and no longer respond to medicines making infections harder to treat and increasing the risk of disease spread, severe illness and death. As a result of drug resistance, antibiotics and other antimicrobial medicines become ineffective and infections become increasingly difficult or impossible to treat. AMR can be a serious threat  for the future generations and according the some researchers, it can be a threat more severe than cancer in 2050 as shown if the figure.
 
+https://www.michiganmedicine.org/health-lab/nearly-quarter-antibiotic-prescriptions-may-be-unnecessary#:~:text=National%20data%20indicate%20that%20around,prescriptions%20are%20filled%20every%20year.
 
 
 ![alt text](assets/css/AMR-ONeil.png)
@@ -17,13 +18,17 @@ Predicted mortality from AMR compared to other common caualities
 
 
 ## AMR in Agriculture
-The global spread of antimicrobial resistant organisms and AMR-associated genes poses a serious threat to the safety of both human and natural systems, increasing the hospitalization and mortality rates of both humans and production animals <a href="#1"><sup>1</sup></a>. In particular, the release of ARGs and organisms into the environment from agricultural sources is considered a serious health threat <a href="#2"><sup>2</sup></a>. For example, antibiotic treatments have been observed to cause increases in the abundance of ARGs in animals, which leads to concomitant ARG prevalence in manure from antibiotic-treated animals <a href="#3"><sup>3</sup></a>. Elevated concentrations of antibiotics and ARGs have also been found in or near livestock production facilities <a href="#4"><sup>4</sup></a>. Moreover, land application of manure has been observed to result in transient increases in ARG abundance and populations of resistant zoonotic microorganisms <a href="#5"><sup>5</sup></a>. In sum, the joint occurrence of a large number of farm animals receiving antibiotics and dependence on shared soil and water resources makes animal agriculture and farms important potential contributors to antibiotic resistance observed in clinical settings <a href="#6"><sup>6</sup></a>. 
+The global spread of antimicrobial resistant organisms and AMR-associated genes poses a serious threat to the safety of both human and natural systems, increasing the hospitalization and mortality rates of both humans and production animals <a href="#1"><sup>1</sup></a>. In particular, the release of ARGs and organisms into the environment from agricultural sources is considered a serious health threat <a href="#2"><sup>2</sup></a>. For example, antibiotic treatments have been observed to cause increases in the abundance of ARGs in animals, which leads to concomitant ARG prevalence in manure from antibiotic-treated animals <a href="#3"><sup>3</sup></a>. Elevated concentrations of antibiotics and ARGs have also been found in or near livestock production facilities <a href="#4"><sup>4</sup></a>. Moreover, land application of manure has been observed to result in transient increases in ARG abundance and populations of resistant zoonotic microorganisms <a href="#5"><sup>5</sup></a>. In sum, the joint occurrence of a large number of farm animals receiving antibiotics and dependence on shared soil and water resources makes animal agriculture and farms important potential contributors to antibiotic resistance observed in clinical settings <a href="#6"><sup>6</sup></a>.
+
+## Objective
+The objective of this study is to analyse and 
 
 ![alt text](assets\AgAMRCycl.png)
 <center>A hypothetical AMR cyle in agricultural environment</center>
 
 
 ## Material and Methods
+This study 
 ### Data
 #### Data Processing
 ### Flowchart
