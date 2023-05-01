@@ -116,7 +116,7 @@ The variable, formatted and cleaned treated with the linear regression model lib
 ## XGBoost Regression
 
 <p align="center">
-  <img width="100%"  src="assets\xgbr_out.png">
+  <img width="70%"  src="assets\xgbr_out.png">
 </p>
 <center>Significance of variables for XGBoost Model</center>
 
