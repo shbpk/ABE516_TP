@@ -8,7 +8,7 @@ layout: default
 Antimicrobials – including antibiotics, antivirals, antifungals and antiparasitics – are medicines used to prevent and treat infections in humans, animals and plants. Antimicrobial Resistance (AMR) occurs when bacteria, viruses, fungi and parasites change over time and no longer respond to medicines making infections harder to treat and increasing the risk of disease spread, severe illness and death. 
 
 
-![alt text](https://www.gavi.org/sites/default/files/vaccineswork/2023/Thumbnail/Vp45jo89EhLzFr4xapvP5FK01afQQWqZJ2ceaQd1Gwg_h2.jpg)
+![alt text](assets/css/AMR-ONeil.png)
 
 
 As a result of drug resistance, antibiotics and other antimicrobial medicines become ineffective and infections become increasingly difficult or impossible to treat.
