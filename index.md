@@ -13,7 +13,7 @@ Antimicrobials – including antibiotics, antivirals, antifungals and antiparasi
 
 <div align="center">
 
-[Image Source - Gravi.org](http://example.com](https://www.gavi.org/vaccineswork/what-antimicrobial-resistance-and-how-can-we-tackle-it?gclid=CjwKCAjwo7iiBhAEEiwAsIxQEe9oBkLiHuUFI8ru5pDI6lSTsba_wHPjZBYob6fX-YYfKzztvWuvEhoCdtUQAvD_BwE)
+[Image Source - Gravi](http://example.com](https://www.gavi.org/vaccineswork/what-antimicrobial-resistance-and-how-can-we-tackle-it?gclid=CjwKCAjwo7iiBhAEEiwAsIxQEe9oBkLiHuUFI8ru5pDI6lSTsba_wHPjZBYob6fX-YYfKzztvWuvEhoCdtUQAvD_BwE)
 
 </div>
 
