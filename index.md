@@ -124,7 +124,7 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 More Notes May be ?
 ```
 
-# Reffernces
+# Refernces
 <p id="1">1- Allen, H. K.; Donato, J.; Wang, H. H.; Cloud-Hansen, K. A.; Davies, J.; Handelsman, J., Call of the wild: antibiotic resistance genes in natural environments. Nat. Rev. Microbiol. 2010, 8, (4), 251-259.</p>
 
 <p id="2">2- PCAST Report to the President on Combating Antibiotic Resistance; Executive Office of the President of the United States: 2014, 2014; p 78.</p>
